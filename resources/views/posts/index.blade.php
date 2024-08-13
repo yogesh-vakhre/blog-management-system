@@ -22,7 +22,7 @@
             <tr>
                 <th>No</th>
                 <th>Name</th>
-                <th>Email</th>
+                <th>Content</th>
                 <th width="100px">Action</th>
             </tr>
         </thead>
